@@ -97,5 +97,6 @@ We understand that this contract is binding for the duration of the course and m
 **Team Member Signatures:**  
 Sylvia Wong  
 James Huang
+Raiyan Ta-seen
 
-Date: October 17, 2025  
+Date: Oct 17, 2025
