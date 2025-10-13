@@ -1,72 +1,102 @@
 # Team Contract
 
-**Your team is free to revise this contract as your team wishes; we have scaffolded it with a recommended structure similar to the provided sample on Quercus.**
-
-After you reflect on past teamwork experiences and brainstorm a list of actions required for a positive teamwork experience, answer these questions. 
-
-Once you have all agreed on the contents of the team contract, make a PR to merge your team contract into the main branch of your team's repo on GitHub.
-
-**Please remember to remove any of the initial instruction text when your team finalizes your team contract; it should resemble the provided sample once complete, but with details specific to the expectations and norms agreed to by your entire team.**
-
 ---
-## Purpose of this Contract
 
-This contract sets out shared expectations and commitments for how our team will collaborate during the course. It is designed to promote accountability, professionalism, and mutual support as we complete individual preparation, readiness assurance tests, in-class activities, and our course project.
+## 1. Purpose of this Contract
 
----
-## Team Norms and Expectations
-
-### Communication
-
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
-  * We will use Instagram as our primary communication channel.
-
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
-  * Team members will respond to messages within 1 day.
-
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
-  * Team members should notify others when they cannot meet a deadline, if they have to miss lab, if they notice bugs in others' code, or if they have made a pull request and require others to check it.
-
-* Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
-  * For smooth and productive communication, members should be understanding of other people's skill level, actively listening to each team member's ideas, and giving everyone a chance to speak.
+This contract sets out shared expectations and commitments for how our team will collaborate during the course. It is designed to promote accountability, professionalism, and mutual support as we complete individual preparation, readiness assurance tests, in-class activities, and our course project. Our goal is to maintain a respectful, cooperative, and efficient working environment that helps all members learn and succeed.
 
 ---
 
-### [Other Categories of norms and expectations go here]
+## 2. Team Norms and Expectations
 
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
-
----
-
-## Decision Making
-
-* How will decisions about your team project be made? (Examples: By majority vote, by unanimous vote, etc.)
-  * Decisions will be made by consensus when possible. When this is not possible, decisions will be made by majority vote. 
-
----
-## Conflict resolution
-
-* How will your team resolve conflicts? (Example: by listening to each other's side of the issue and attempting to reach a compromise. By consulting a TA or instructor as a team, if a resolution has not yet been reached.)
-  * If a conflict arises, teammates should discuss privately and attempt to reach a compromise or find a solution that incorporates the best of both party's ideas.
+### a) Communication
+* We will use Instagram as our primary communication channel.
+* Team members will respond to messages within 1 day on weekdays.
+* Members should notify the team when:
+    - They cannot meet a deadline or attend a lab session.
+    - They notice bugs or issues in another member’s code.
+    - They have submitted a pull request and need others to review it.
+* Communication will remain respectful, professional, and inclusive at all times.
+* Members will:
+    - Actively listen to each other’s ideas.
+    - Be open to feedback and alternative viewpoints.
+    - Give everyone a fair chance to contribute.
+    - Use clear and concise messages to reduce misunderstandings.
 
 ---
 
-## Accountability
-
-* Reliability and accountability are also important aspects of teamwork. What are the responsibilities of each team member? (Example: completing their share of the work in a timely manner, seeking assistance from teammates/TAs/instructors when required, etc.)
-  * Each team member should complete their share of work.
-  * Each team member should contribute equally to the team's goal.
-  * Each team member should comment their code so it is more readable to other teammates.
-  * Each team member should complete their work by the team's deadlines.
+### b) Preparation
+* Each team member commits to completing individual readiness work before class.
+* Members who come unprepared agree to accept reasonable consequences (e.g., lower peer evaluation scores).
 
 ---
 
+### c) Attendance & Participation
+* Members will attend all scheduled classes and team meetings unless illness, emergencies, or unavoidable conflicts occur.
+* If unable to attend, a member must notify the team in advance and provide input asynchronously.
+* During labs, meetings, or online discussions, every member is expected to:
+    - Contribute ideas and feedback.
+    - Support an inclusive and encouraging atmosphere.
+* Members agree to divide work fairly and ensure no one is consistently overloaded.
+
 ---
 
-By signing below, we acknowledge that we have read, discussed, and agreed to these terms. We understand that this contract is binding for the duration of the course and may be revised with the agreement of all team members.
+### d) Work Quality
+* All deliverables must be:
+    - Completed on time and meet the agreed quality standard.
+    - Properly tested and documented before submission.
+    - Written in clear, organized, and commented code.
+* Members agree to review each other’s work constructively before submission.
+* Each Pull Request will be reviewed by at least two team members before merging.
+* If issues are identified, members will provide feedback respectfully and allow time for revisions.
+* The team will maintain consistent formatting and version control practices on GitHub.
 
-Team Member Signatures:
+---
 
-(type names here)
-Sylvia Wong, Raiyan Ta-seen
+## 3. Decision Making
+
+* Decisions will be made by consensus whenever possible.
+* If consensus cannot be reached, the team will decide by majority vote.
+* Major project changes (e.g., topic, structure, or coding framework) will be discussed collectively before implementation.
+* Every member’s opinion will be valued, and decisions will be documented in writing (e.g., via group chat or meeting notes).
+
+---
+
+## 4. Conflict Resolution
+
+* If a conflict arises, teammates will first:
+    - Discuss the issue privately and respectfully.
+    - Listen to each other’s perspectives and identify the root cause.
+    - Attempt to find a compromise or blended solution that benefits the project.
+* If the issue persists or affects progress:
+    - The team will involve a TA or instructor as a neutral mediator.
+
+---
+
+## 5. Accountability
+
+* Each team member is responsible for:
+    - Completing their assigned work on time and to a high standard.
+    - Communicating early if they encounter difficulties or delays.
+    - Participating actively in discussions and reviews.
+    - Commenting code clearly to aid team understanding.
+* Persistent non-participation or failure to meet expectations may result in lower peer evaluation scores.
+* All members agree to provide honest, constructive, and fair peer evaluations at the end of the project.
+* Team progress will be reviewed regularly, and tasks may be redistributed if needed to ensure fairness.
+
+---
+
+## 6. Agreement and Signatures
+
+By signing below, we acknowledge that we have read, discussed, and agreed to these terms.  
+We understand that this contract is binding for the duration of the course and may only be revised with the agreement of all team members.
+
+---
+
+**Team Member Signatures:**  
+Sylvia Wong  
+James Huang
+Raiyan Ta-seen
+
+Date: Oct 17, 2025
